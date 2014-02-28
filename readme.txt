@@ -31,8 +31,9 @@ and follow the instructions
 
 
 == Screenshots ==
-1. topiccount1.jpeg
-2. topiccount2.jpeg
+1. The display
+2. The settings page
 
 == Changelog ==
 1.0 Version 1
+1.1 Updated with screenshots
