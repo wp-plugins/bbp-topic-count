@@ -5,7 +5,7 @@ Plugin Name: bbP topic count
 Plugin URI: http://www.rewweb.co.uk/bbp-topic-count-plugin/
 Description: This plugin for bbPress shows any combination of the total topics, replies and post count under the avatar on each topic/reply
 view in bbpress, and allows you to label these as you wish eg “Topics Created : 253″ or “Topics – 253″
-Version: 1.0
+Version: 1.3.1
 Author: Robin Wilson
 Author URI: http://www.rewweb.co.uk
 License: GPL2

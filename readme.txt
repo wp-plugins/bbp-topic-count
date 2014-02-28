@@ -3,7 +3,7 @@ Contributors: Robin Wilson
 Tags: forum, bbpress, bbp, topic, count
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 1.3
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,3 +37,4 @@ and follow the instructions
 == Changelog ==
 1.0 Version 1
 1.1 Updated with screenshots
+1.3 updated instructions
