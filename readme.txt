@@ -1,0 +1,38 @@
+=== bbp topic count ===
+Contributors: Robin Wilson
+Tags: forum, bbpress, bbp, topic, count
+Requires at least: 3.0.1
+Tested up to: 3.8.1
+Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+For bbPress - adds any combination of topics, replies and totals under the authors avatar in topics and replies
+
+== Description ==
+This plugin for bbpress shows any combination of the total topics, replies and post count under the avatar on each topic/reply view in bbpress, and allows you to label these as you wish eg “Topics Created : 253″ or “Topics – 253″
+
+Works with wordpress 3.8.1 and bbpress 2.5.3
+
+To set which combinations and what wording to use, go to
+
+Dashboard>settings>bbp topic count
+
+and follow the instructions
+
+
+== Installation ==
+1. Go to Dashboard>plugins>add new
+2. Search for \"bbp topic count\"
+3. Click install
+4. and then activate
+5. Go to Dashboard>settings>bbp topic count and follow the instructions to select which items to display, and what labels they should have
+
+
+
+== Screenshots ==
+1. topiccount1.jpeg
+2. topiccount2.jpeg
+
+== Changelog ==
+1.0 Version 1
