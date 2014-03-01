@@ -37,4 +37,4 @@ and follow the instructions
 == Changelog ==
 1.0 Version 1
 1.1 Updated with screenshots
-1.3 updated instructions
+1.3.1 updated instructions
