@@ -1,4 +1,4 @@
-=== bbp topic count ===
+﻿=== bbp topic count ===
 Contributors: Robin Wilson
 Tags: forum, bbpress, bbp, topic, count
 Requires at least: 3.0.1
@@ -14,16 +14,12 @@ This plugin for bbpress shows any combination of the total topics, replies and p
 
 Works with wordpress 3.8.1 and bbpress 2.5.3
 
-To set which combinations and what wording to use, go to
 
-Dashboard>settings>bbp topic count
-
-and follow the instructions
 
 
 == Installation ==
 1. Go to Dashboard>plugins>add new
-2. Search for \"bbp topic count\"
+2. Search for 'bbp topic count'
 3. Click install
 4. and then activate
 5. Go to Dashboard>settings>bbp topic count and follow the instructions to select which items to display, and what labels they should have
