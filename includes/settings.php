@@ -1,7 +1,7 @@
 <?php
 
 /*******************************************
-* bp User information Settings Page
+* bbp topic count Settings Page
 *******************************************/
 
 
@@ -20,6 +20,24 @@ function tc_settings_page()
 			<?php if ( false !== $_REQUEST['updated'] ) : ?>
 			<div class="updated fade"><p><strong><?php _e( 'Options saved', 'bbp-topic-count'); ?> ); ?></strong></p></div>
 			<?php endif; ?>
+			
+			<table class="form-table">
+			<tr>
+		
+		<td>
+			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="9NKN2K8SXGS9Q">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+</td><td>
+<?php _e("If you find this plugin useful, please consider donating just a couple of pounds to help me develop and maintain it. You support will be appreciated", 'bbp-last-post'); ?>
+		
+	</td>
+	</tr>
+	</table>		
+			
 			<form method="post" action="options.php">
 
 				<?php settings_fields( 'tc_settings_group' ); ?>
