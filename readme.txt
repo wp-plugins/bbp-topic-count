@@ -13,7 +13,7 @@ For bbPress - adds any combination of topics, replies and totals under the autho
 == Description ==
 This plugin for bbpress shows any combination of the total topics, replies and post count under the avatar on each topic/reply view in bbpress, and allows you to label these as you wish eg “Topics Created : 253″ or “Topics – 253″
 
-Works with wordpress 3.8.1 and bbpress 2.5.3
+Works with bbpress 2.5.3
 
 
 
